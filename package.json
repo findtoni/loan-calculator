@@ -1,0 +1,15 @@
+{
+  "name": "loancalculator",
+  "version": "1.0.0",
+  "description": "Loan calculator application to determine monthly loan repayment amounts",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "*"
+  },
+  "author": "Samuel Kim",
+  "license": "ISC"
+}
